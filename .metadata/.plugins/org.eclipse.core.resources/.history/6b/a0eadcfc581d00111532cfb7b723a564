@@ -1,0 +1,5 @@
+package com.bookstore.bookservice.model;
+
+public class Book {
+
+}
